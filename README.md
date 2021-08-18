@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MEminTerzi
-- 👀 I’m interested in Python
+- 👀 I am interested in electronics, coding and artificial intelligence
 - 🌱 I’m currently learning Python and CCS C Compiler
 
 <!---
